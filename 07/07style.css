@@ -1,10 +1,16 @@
 body {
-    background-color: olivedrab
+    background-color: beige
 }
 h1 {
-    color: blue;
-    border: 10px solid gray;
-    background-color: gold;
-    
+    text-align: center;
+    font-family: "Courier New";
+    color: darkgreen;
+    border: solid 3px black ;
+    background-color: whitesmoke;
+    padding: 10px;
+    Margin: 50px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+      
         
 }
