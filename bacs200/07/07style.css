@@ -1,24 +1,40 @@
+* {
+    border: 10px black;
+    margin: 5px;
+}
+
+
 body {
-    background-color: black
+    background-color: beige;
+    margin: 50px:
 }
 header {
     text-align: center;
     font-family: fantasy;
-    font-size: 50px;
+    font-size: 50pt;
     color: black;
     border: solid 3px black ;
     background-color: white;
-    padding: 50px;
-    Margin: 75px;
-    border-radius: 15px;  
+    padding: 10px;
+    Margin: 50px;
+    border-radius: 10px;  
 }
-h2 {
-    text-align: center;
-    font-family: fantasy;
-    font-size: 25px;
-    border: solid 3px black;
-    background-color: white;
     padding: 50px;
-    border-radius: 15px;
+
+h2{
+    font-size: 25pt;
     
 }
+
+main {
+    border: solid 2px grey;
+    margin: 20px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    text-decoration: underline;
+}
+
