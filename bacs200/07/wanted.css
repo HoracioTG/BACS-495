@@ -17,6 +17,22 @@ main {
     background-color: lightgoldenrodyellow;
     margin: 50px;  
 }
+aside {
+    position: absolute;
+    right: 110px;
+    width: 300px;
+    font-size: 13pt;
+    font-family: fantasy;
+    list-style: circle;
+    border: solid 3px black;
+    background-color: whitesmoke;
+}
+
+section {
+    list-style-position: inside;
+    text-align: center;
+}
+
 
 img {
     display: block;
@@ -54,15 +70,7 @@ h3 {
     text-align: center; 
 }
 
-ul {
-    text-align: center;
-    list-style-position: inside
-}
-
-
-
 footer {
-    color: beige;
     text-align: center;
     border: solid 3px black;
     background-color: black;
