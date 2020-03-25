@@ -1,11 +1,4 @@
-* {
-    border: 10px black;
-    margin: 5px;
-}
-
-
 body {
-<<<<<<< HEAD
     background-color: white;
 }
 
@@ -18,37 +11,3 @@ h1 {
 a {
     color: red;
 }
-=======
-    background-color: beige;
-    margin: 50px:
-}
-header {
-    text-align: center;
-    font-family: fantasy;
-    font-size: 50pt;
-    color: black;
-    border: solid 3px black ;
-    background-color: white;
-    padding: 10px;
-    Margin: 50px;
-    border-radius: 10px;  
-}
-
-h2{
-    font-size: 25pt;
-    
-}
-
-main {
-    border: solid 2px grey;
-    margin: 20px;
-    text-align: center;
-}
-
-ul {
-    text-align: center;
-    list-style-position: inside;
-    text-decoration: underline;
-}
-
->>>>>>> 3134b2d17b17caaa460367a40faed3d57c98d080

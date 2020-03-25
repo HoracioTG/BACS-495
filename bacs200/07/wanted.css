@@ -1,24 +1,70 @@
+* {
+    border: 10px black;
+    margin: 5px;
+}
+
 body {
-    background-color: black
+    border: solid black;
+    background-color: black;
+    margin: 50px;
+
 }
+
+main {
+    border: solid 1px gray;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+    background-color: lightgoldenrodyellow;
+    margin: 50px;  
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-image: url(monkeyCowboy.jpg);
+    border: solid 1px gray;
+    border-radius: 10px;
+}
+
+
 header {
-    text-align: center;
+    font-size: 20pt;
     font-family: fantasy;
-    font-size: 50px;
-    color: black;
-    border: solid 3px black ;
-    background-color: white;
-    padding: 50px;
-    Margin: 75px;
-    border-radius: 15px;  
-}
-h2 {
     text-align: center;
-    font-family: fantasy;
-    font-size: 25px;
     border: solid 3px black;
-    background-color: white;
-    padding: 50px;
-    border-radius: 15px;
-    
+    background-color: whitesmoke;
+    border: solid 1px gray;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+    margin: 50px;
 }
+
+h1 {
+    font-size: 50pt;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h3 {
+    
+    font-size: 25pt;
+    font-family: fantasy;
+    text-align: center; 
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside
+}
+
+
+
+footer {
+    color: beige;
+    text-align: center;
+    border: solid 3px black;
+    background-color: black;
+}
+
