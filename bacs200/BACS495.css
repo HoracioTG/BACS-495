@@ -18,6 +18,15 @@ body {
     background-color: darkseagreen
 }
 
+aside {
+    background-color: lightgray;
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px dotted black;
+    float: right;
+    width: 30%;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -29,7 +38,7 @@ img {
 
 
 h2 {
-
+    text-align: center;
     font-family: "Courier New";
     color: darkolivegreen;
     border: solid 3px  ;
