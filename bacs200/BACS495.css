@@ -61,9 +61,35 @@ a {
 }
 
 article {
-    border: 1px solid grey;
+    border: 5px solid grey;
     box-shadow: 2px 2px 5px grey;
     margin: 3em;
     padding: 1em;
 }
-
+.projects {
+    
+    box-shadow: 5px grey;
+    background-color: whitesmoke;
+    border: 3px solid gray;
+    border-radius: 5px;
+    width: 69.45%;
+    float: left2em;
+}
+.blogTitle {
+    box-shadow: 5px grey;
+    background-color: whitesmoke;
+    border: 5px solid black;
+    padding: 10px;
+    float: left2em;
+    text-align: left;
+    margin: 10px 0px;
+    
+}
+h3 {
+    font-size: 20px;
+    text-align: left;
+    font-family: "Courier New";
+    color: darkolivegreen;
+    background-color: whitesmoke;
+    
+}
